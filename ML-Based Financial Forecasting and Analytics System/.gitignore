@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Ignore big data dumps, but keep sample CSVs
+data/raw/*
+data/processed/*
+
+# Keep models but ignore temp
+models/*
+!models/rf_model.pkl
