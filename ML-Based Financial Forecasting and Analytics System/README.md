@@ -97,4 +97,4 @@ The project includes a **Streamlit web app** for making predictions interactivel
  - Improve feature set with external factors (market indicators, news sentiment)
 
 ## Author
- - Varsha Reddy
+ - Sowmya Sri.P   
